@@ -1,0 +1,11 @@
+--- PEDIDO REALIZADO ---
+Ensalada vegana - $8000
+Filete de pollo - $35000
+Pescado con camarones - $40000
+Sopa de tomate - $25000
+Pescado con camarones - $40000
+Total a pagar: $148000
+-Gracias por su compra-
+
+--- CODIGO DE BARRAS ---
+|=|
