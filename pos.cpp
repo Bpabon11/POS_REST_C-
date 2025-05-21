@@ -1,3 +1,29 @@
+//PROYECTO FINAL - PROGRAMACION C++
+// Nombre: POS_REST_C++
+// Descripcion: Sistema de punto de venta para un restaurante
+// Integrantes:MANUELA JARAMILLO, BREINER PABON, LAURA RAMIREZ 
+// Fecha: 2025-05-01
+// Version: 1.0 
+// Licencia: GPL-3.0
+// Este programa es software libre: usted puede redistribuirlo y/o modificarlo  
+// bajo los términos de la Licencia Pública General de GNU, versión 3.
+// Este programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA;
+// sin siquiera la garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR.
+// Para más detalles, consulte la Licencia Pública General de GNU en <http://www.gnu.org/licenses/>.
+// Este programa es un sistema de punto de venta para un restaurante.
+// Permite a los usuarios seleccionar productos de un menú, calcular el total del pedido,
+// y generar un archivo de texto con el pedido y un código de barras.
+// El código está diseñado para ser fácil de entender y modificar.
+// El programa utiliza funciones para organizar el código y mejorar la legibilidad.
+// El menú incluye opciones como ensalada vegana, filete de pollo, pescado con camarones y sopa de tomate.
+// El precio de cada opción está definido en el código.
+// El programa guarda el pedido en un archivo de texto con un nombre único basado en un contador.
+// El contador se almacena en un archivo separado y se incrementa cada vez que se realiza un pedido.
+// El código de barras se genera a partir del número de pedido y se incluye en el archivo de texto.
+// El programa utiliza bibliotecas estándar de C++ como iostream, fstream y string.
+// El código está diseñado para ser fácil de entender y modificar.
+// El programa utiliza un bucle do-while para permitir al usuario seleccionar múltiples opciones del menú.
+
 #include <iostream>
 #include <fstream>
 #include <string>
