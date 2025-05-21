@@ -1,0 +1,10 @@
+--- PEDIDO REALIZADO ---
+Filete de pollo - $35000
+Pescado con camarones - $40000
+Sopa de tomate - $25000
+Filete de pollo - $35000
+Total a pagar: $135000
+-Gracias por su compra-
+
+--- CODIGO DE BARRAS ---
+|==|
