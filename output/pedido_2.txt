@@ -1,0 +1,8 @@
+--- PEDIDO REALIZADO ---
+Ensalada vegana - $8000
+Pescado con camarones - $40000
+Total a pagar: $48000
+-Gracias por su compra-
+
+--- CODIGO DE BARRAS ---
+|==|
